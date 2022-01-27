@@ -1,0 +1,30 @@
+# dependencies
+**/node_modules
+
+# production
+**/dist
+**/build
+
+# logs
+**/*.log
+coverage
+reports
+npm-debug.*
+.DS_Store
+
+# tests
+.jest
+.tern-port
+tags
+jest
+**/jest.json
+
+# configs
+**/.idea
+.vscode
+.DS_Store
+**/**.DS_Store
+**/javascript-private.iml
+.idea
+static-build
+**/cypress-coverage

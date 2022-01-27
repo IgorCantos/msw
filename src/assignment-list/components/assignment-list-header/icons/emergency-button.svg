@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icons / action / add</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Delivery:-Entrega-v0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home/-vazio" transform="translate(-303.000000, -39.000000)">
+            <g id="inputs/button/secondary/inverse/large/icon" transform="translate(284.000000, 20.000000)">
+                <g id="icons-/-material-ui-/-call-plus" transform="translate(16.000000, 16.000000)">
+                    <g id="add_ic_call-24px">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M14,8 L16,8 L16,10 C16,10.55 16.45,11 17,11 C17.55,11 18,10.55 18,10 L18,8 L20,8 C20.55,8 21,7.55 21,7 C21,6.45 20.55,6 20,6 L18,6 L18,4 C18,3.45 17.55,3 17,3 C16.45,3 16,3.45 16,4 L16,6 L14,6 C13.45,6 13,6.45 13,7 C13,7.55 13.45,8 14,8 Z M19.21,15.27 L16.67,14.98 C16.06,14.91 15.46,15.12 15.03,15.55 L13.19,17.39 C10.36,15.95 8.04,13.64 6.6,10.8 L8.45,8.95 C8.88,8.52 9.09,7.91 9.02,7.31 L8.73,4.79 C8.62,3.78 7.76,3.01 6.75,3.01 L5.02,3.01 C3.89,3.01 2.95,3.95 3.02,5.08 C3.55,13.62 10.38,20.44 18.91,20.97 C20.04,21.04 20.9800963,20.1 20.9800963,18.97 L20.9800963,17.24 C20.99,16.24 20.22,15.38 19.21,15.27 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
